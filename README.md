@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Lautry-80805
-- 👀 I’m interested in programming and trying to create a game
+- 👀 I’m interested in programming and planning to create a game
 - 🌱 I’m currently learning tec
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
